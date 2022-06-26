@@ -1,0 +1,68 @@
+header{
+    padding:10px 5%;
+    background-color:MediumOrchid;
+}
+header>*{
+    display:inline-block;
+    width:450px;
+}
+
+a{
+    display:inline-block ;
+    color: black;
+    background-color: plum;
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 6px;
+}
+body{
+    background-color: Thistle;
+    margin: 0;
+}
+.first {
+    padding:10px 5%;
+     text-align:center;
+
+}
+.first>* {
+    display:inline-block;
+    width:500px;
+    font-size:30px;
+    vertical-align:middle;
+}
+.post {
+    padding:10px 5%;
+     text-align:center;
+
+}
+.post>* {
+    display:inline-block;
+    font-size:23px;
+    vertical-align: auto;
+}
+.razryv {
+    height:50px;
+     background-color: mediumorchid;
+    background-size:cover;
+}
+.hhh {
+    text-align:center;
+    display:inline-block;
+    font-size:23px;
+}
+.p {
+    font-size:23px;
+    text-align:center;
+}
+.nnn{
+    text-align:center;
+}
+.bbb{
+    text-align:center;
+}
+footer{
+    background-color:mediumorchid;
+    padding:10px 0;
+    text-align:center;
+    color:black;
+}
